@@ -1,9 +1,6 @@
-## 
-dcf87a7725e6bf71e00a82f45944c8a9.jpg
-<!--
-**flutterpuppi/flutterpuppi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!--
+**flutterpuppi/flutterpuppi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your Giome ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
